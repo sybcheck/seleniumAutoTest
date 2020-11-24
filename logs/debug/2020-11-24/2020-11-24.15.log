@@ -1,0 +1,28 @@
+2020-11-24 15:02:02,602 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-24 15:02:16,772 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-24 15:02:16,784 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-24 15:02:17,712 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-24 15:02:17,845 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-24 15:02:17,851 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-24 15:02:17,852 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (8e30593756d361535ab113498e0f8cd2)] -> id: nc_1_n1z]之前执行...
+2020-11-24 15:02:18,085 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (8e30593756d361535ab113498e0f8cd2)] -> id: nc_1_n1z]之后执行...
+2020-11-24 15:16:11,399 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.baidu.com/'
+2020-11-24 15:16:11,849 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.baidu.com/'
+2020-11-24 15:16:13,964 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: kw
+2020-11-24 15:16:13,975 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: kw
+2020-11-24 15:16:13,979 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (3449f14511faad5c64663fe4c320c889)] -> id: kw]之前执行...
+2020-11-24 15:16:14,010 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (3449f14511faad5c64663fe4c320c889)] -> id: kw]之后执行...
+2020-11-24 15:16:14,010 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: kw
+2020-11-24 15:16:14,019 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: kw
+2020-11-24 15:16:14,083 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .bdsug-overflow
+2020-11-24 15:16:14,148 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .bdsug-overflow
+2020-11-24 15:16:14,148 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (3449f14511faad5c64663fe4c320c889)] -> css selector: .bdsug-overflow]之前执行...
+2020-11-24 15:16:14,181 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (3449f14511faad5c64663fe4c320c889)] -> css selector: .bdsug-overflow]之后执行...
+2020-11-24 15:16:14,181 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: su
+2020-11-24 15:16:14,190 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: su
+2020-11-24 15:16:14,190 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (3449f14511faad5c64663fe4c320c889)] -> id: su]之前执行...
+2020-11-24 15:16:14,222 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (3449f14511faad5c64663fe4c320c889)] -> id: su]之后执行...
+2020-11-24 15:16:14,222 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: su
+2020-11-24 15:16:14,228 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: su
+2020-11-24 15:16:14,437 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.tagName: body
+2020-11-24 15:16:14,500 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.tagName: body

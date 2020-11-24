@@ -1,0 +1,703 @@
+2019-11-18 16:01:13,083 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://localhost:8010/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:01:13,581 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://localhost:8010/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:01:13,581 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:01:13,820 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:01:13,868 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:01:13,881 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:01:13,942 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:01:13,955 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:01:13,955 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //div[@class='login-sub']]之前执行...
+2019-11-18 16:01:13,998 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //div[@class='login-sub']]之后执行...
+2019-11-18 16:01:13,998 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:01:14,875 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:01:14,876 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //span[contains(text(),'基础数据')]]之前执行...
+2019-11-18 16:01:14,907 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //span[contains(text(),'基础数据')]]之后执行...
+2019-11-18 16:01:14,907 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:01:14,918 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:01:14,918 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //span[contains(text(),'基础数据维护')]]之前执行...
+2019-11-18 16:01:14,956 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //span[contains(text(),'基础数据维护')]]之后执行...
+2019-11-18 16:01:14,956 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:01:14,968 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:01:14,968 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //li[contains(text(),'帮助文档管理')]]之前执行...
+2019-11-18 16:01:15,014 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //li[contains(text(),'帮助文档管理')]]之后执行...
+2019-11-18 16:01:15,014 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:01:15,241 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:01:15,242 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //span[@class='searchtoolbar-search-span']]之前执行...
+2019-11-18 16:01:15,276 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //span[@class='searchtoolbar-search-span']]之后执行...
+2019-11-18 16:01:18,778 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:01:18,790 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:01:18,790 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之前执行...
+2019-11-18 16:01:18,822 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之后执行...
+2019-11-18 16:01:18,822 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:01:18,835 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:01:18,888 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:01:18,898 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:01:18,942 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:01:18,954 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:01:18,971 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:01:18,981 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:01:18,982 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //button[@class='helpdoc-submit']]之前执行...
+2019-11-18 16:01:19,023 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //button[@class='helpdoc-submit']]之后执行...
+2019-11-18 16:01:19,023 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:01:19,034 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:01:19,034 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //span[contains(text(),'确定')]]之前执行...
+2019-11-18 16:01:19,080 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (b778072f55a1b580dde872e02f6c568e)] -> xpath: //span[contains(text(),'确定')]]之后执行...
+2019-11-18 16:01:22,582 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:01:42,641 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='swPageSelect-select']"}
+  (Session info: chrome=79.0.3941.4)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51354}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b778072f55a1b580dde872e02f6c568e
+*** Element info: {Using=xpath, value=//select[@class='swPageSelect-select']}
+2019-11-18 16:02:08,951 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://localhost:8010/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:02:09,452 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://localhost:8010/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:02:09,453 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:02:09,709 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:02:09,752 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:02:09,766 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:02:09,813 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:02:09,829 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:02:09,830 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //div[@class='login-sub']]之前执行...
+2019-11-18 16:02:09,887 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //div[@class='login-sub']]之后执行...
+2019-11-18 16:02:09,890 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:02:10,818 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:02:10,818 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //span[contains(text(),'基础数据')]]之前执行...
+2019-11-18 16:02:10,866 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //span[contains(text(),'基础数据')]]之后执行...
+2019-11-18 16:02:10,867 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:02:10,877 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:02:10,877 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //span[contains(text(),'基础数据维护')]]之前执行...
+2019-11-18 16:02:10,914 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //span[contains(text(),'基础数据维护')]]之后执行...
+2019-11-18 16:02:10,914 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:02:10,926 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:02:10,926 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //li[contains(text(),'帮助文档管理')]]之前执行...
+2019-11-18 16:02:10,970 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //li[contains(text(),'帮助文档管理')]]之后执行...
+2019-11-18 16:02:10,972 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:02:11,205 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:02:11,205 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //span[@class='searchtoolbar-search-span']]之前执行...
+2019-11-18 16:02:11,249 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //span[@class='searchtoolbar-search-span']]之后执行...
+2019-11-18 16:02:12,751 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:02:12,763 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:02:12,763 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之前执行...
+2019-11-18 16:02:12,795 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之后执行...
+2019-11-18 16:02:12,795 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:02:12,806 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:02:12,848 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:02:12,859 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:02:12,897 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:02:12,907 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:02:12,924 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:02:12,935 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:02:12,935 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //button[@class='helpdoc-submit']]之前执行...
+2019-11-18 16:02:12,972 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //button[@class='helpdoc-submit']]之后执行...
+2019-11-18 16:02:12,972 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:02:12,985 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:02:12,985 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //span[contains(text(),'确定')]]之前执行...
+2019-11-18 16:02:13,016 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //span[contains(text(),'确定')]]之后执行...
+2019-11-18 16:02:14,519 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:02:34,557 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='swPageSelect-select']"}
+  (Session info: chrome=79.0.3941.4)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7d30eb8a8b18de972b6aa98678131f13
+*** Element info: {Using=xpath, value=//select[@class='swPageSelect-select']}
+2019-11-18 16:02:34,561 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'下一页')]
+2019-11-18 16:02:54,619 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'下一页')]"}
+  (Session info: chrome=79.0.3941.4)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7d30eb8a8b18de972b6aa98678131f13
+*** Element info: {Using=xpath, value=//span[contains(text(),'下一页')]}
+2019-11-18 16:02:54,623 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='swPageSelect-onePage']
+2019-11-18 16:03:14,648 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='swPageSelect-onePage']"}
+  (Session info: chrome=79.0.3941.4)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7d30eb8a8b18de972b6aa98678131f13
+*** Element info: {Using=xpath, value=//input[@class='swPageSelect-onePage']}
+2019-11-18 16:03:14,650 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:03:14,665 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:03:14,665 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:03:14,674 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:03:14,674 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //button[@class='helpdoc-change']]之前执行...
+2019-11-18 16:03:14,703 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button class="helpdoc-change">...</button> is not clickable at point (1424, 248). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7d30eb8a8b18de972b6aa98678131f13
+2019-11-18 16:03:14,706 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'下载')][1]
+2019-11-18 16:03:14,718 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'下载')][1]
+2019-11-18 16:03:14,718 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7d30eb8a8b18de972b6aa98678131f13)] -> xpath: //span[contains(text(),'下载')][1]]之前执行...
+2019-11-18 16:03:14,743 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="helpdoc-download">...</span> is not clickable at point (1507, 200). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7d30eb8a8b18de972b6aa98678131f13
+2019-11-18 16:04:29,475 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://localhost:8010/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:04:29,963 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://localhost:8010/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:04:29,963 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:04:30,211 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:04:30,265 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:04:30,278 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:04:30,345 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:04:30,361 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:04:30,362 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //div[@class='login-sub']]之前执行...
+2019-11-18 16:04:30,408 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //div[@class='login-sub']]之后执行...
+2019-11-18 16:04:30,412 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:04:31,262 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:04:31,263 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //span[contains(text(),'基础数据')]]之前执行...
+2019-11-18 16:04:31,292 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //span[contains(text(),'基础数据')]]之后执行...
+2019-11-18 16:04:31,292 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:04:31,304 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:04:31,305 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //span[contains(text(),'基础数据维护')]]之前执行...
+2019-11-18 16:04:31,342 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //span[contains(text(),'基础数据维护')]]之后执行...
+2019-11-18 16:04:31,342 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:04:31,354 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:04:31,354 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //li[contains(text(),'帮助文档管理')]]之前执行...
+2019-11-18 16:04:31,392 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //li[contains(text(),'帮助文档管理')]]之后执行...
+2019-11-18 16:04:31,394 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:04:31,624 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:04:31,624 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //span[@class='searchtoolbar-search-span']]之前执行...
+2019-11-18 16:04:31,673 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //span[@class='searchtoolbar-search-span']]之后执行...
+2019-11-18 16:04:33,176 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:04:33,187 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:04:33,188 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之前执行...
+2019-11-18 16:04:33,217 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之后执行...
+2019-11-18 16:04:33,217 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:04:33,228 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:04:33,268 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:04:33,279 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:04:33,315 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:04:33,324 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:04:33,340 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:04:33,350 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:04:33,351 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //button[@class='helpdoc-submit']]之前执行...
+2019-11-18 16:04:33,397 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //button[@class='helpdoc-submit']]之后执行...
+2019-11-18 16:04:33,398 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:04:33,408 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:04:33,409 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //span[contains(text(),'确定')]]之前执行...
+2019-11-18 16:04:33,439 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //span[contains(text(),'确定')]]之后执行...
+2019-11-18 16:04:35,440 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:04:55,474 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='swPageSelect-select']"}
+  (Session info: chrome=79.0.3941.4)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 22f4adcdaf3156529c540babfeec0883
+*** Element info: {Using=xpath, value=//select[@class='swPageSelect-select']}
+2019-11-18 16:04:55,477 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'下一页')]
+2019-11-18 16:05:15,486 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'下一页')]"}
+  (Session info: chrome=79.0.3941.4)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 22f4adcdaf3156529c540babfeec0883
+*** Element info: {Using=xpath, value=//span[contains(text(),'下一页')]}
+2019-11-18 16:05:15,490 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='swPageSelect-onePage']
+2019-11-18 16:05:35,539 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='swPageSelect-onePage']"}
+  (Session info: chrome=79.0.3941.4)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 22f4adcdaf3156529c540babfeec0883
+*** Element info: {Using=xpath, value=//input[@class='swPageSelect-onePage']}
+2019-11-18 16:05:35,541 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:05:35,553 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:05:35,554 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:05:35,562 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:05:35,562 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //button[@class='helpdoc-change']]之前执行...
+2019-11-18 16:05:35,602 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //button[@class='helpdoc-change']]之后执行...
+2019-11-18 16:05:35,603 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:05:35,613 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:05:55,718 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 22f4adcdaf3156529c540babfeec0883
+2019-11-18 16:05:55,721 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'下载')][1]
+2019-11-18 16:05:55,733 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'下载')][1]
+2019-11-18 16:05:55,733 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //span[contains(text(),'下载')][1]]之前执行...
+2019-11-18 16:06:00,763 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (22f4adcdaf3156529c540babfeec0883)] -> xpath: //span[contains(text(),'下载')][1]]之后执行...
+2019-11-18 16:31:29,442 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:31:29,629 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:31:29,629 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:31:29,895 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:31:29,949 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:31:29,964 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:31:30,025 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:31:30,038 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:31:30,038 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (12811ea8a71eef57a530f5e147184f9a)] -> xpath: //div[@class='login-sub']]之前执行...
+2019-11-18 16:31:30,075 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (12811ea8a71eef57a530f5e147184f9a)] -> xpath: //div[@class='login-sub']]之后执行...
+2019-11-18 16:31:30,075 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:31:31,179 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:31:31,180 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (12811ea8a71eef57a530f5e147184f9a)] -> xpath: //span[contains(text(),'基础数据')]]之前执行...
+2019-11-18 16:31:31,210 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (12811ea8a71eef57a530f5e147184f9a)] -> xpath: //span[contains(text(),'基础数据')]]之后执行...
+2019-11-18 16:31:31,210 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:31:31,223 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:31:31,224 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (12811ea8a71eef57a530f5e147184f9a)] -> xpath: //span[contains(text(),'基础数据维护')]]之前执行...
+2019-11-18 16:31:31,257 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (12811ea8a71eef57a530f5e147184f9a)] -> xpath: //span[contains(text(),'基础数据维护')]]之后执行...
+2019-11-18 16:31:31,257 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:31:31,268 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:31:31,269 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (12811ea8a71eef57a530f5e147184f9a)] -> xpath: //li[contains(text(),'帮助文档管理')]]之前执行...
+2019-11-18 16:31:31,306 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (12811ea8a71eef57a530f5e147184f9a)] -> xpath: //li[contains(text(),'帮助文档管理')]]之后执行...
+2019-11-18 16:31:31,307 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:31:51,367 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='searchtoolbar-search-span']"}
+  (Session info: chrome=79.0.3941.4)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55622}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 12811ea8a71eef57a530f5e147184f9a
+*** Element info: {Using=xpath, value=//span[@class='searchtoolbar-search-span']}
+2019-11-18 16:33:23,242 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:33:23,416 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:33:23,416 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:33:23,668 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:33:23,717 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:33:23,731 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:33:23,793 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:33:23,805 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:33:23,805 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //div[@class='login-sub']]之前执行...
+2019-11-18 16:33:23,839 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //div[@class='login-sub']]之后执行...
+2019-11-18 16:33:23,842 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:33:24,955 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:33:24,956 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[contains(text(),'基础数据')]]之前执行...
+2019-11-18 16:33:24,988 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[contains(text(),'基础数据')]]之后执行...
+2019-11-18 16:33:24,988 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:33:24,999 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:33:24,999 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[contains(text(),'基础数据维护')]]之前执行...
+2019-11-18 16:33:25,046 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[contains(text(),'基础数据维护')]]之后执行...
+2019-11-18 16:33:25,046 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:33:25,057 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:33:25,057 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //li[contains(text(),'帮助文档管理')]]之前执行...
+2019-11-18 16:33:25,089 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //li[contains(text(),'帮助文档管理')]]之后执行...
+2019-11-18 16:33:25,091 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:33:25,388 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:33:25,388 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[@class='searchtoolbar-search-span']]之前执行...
+2019-11-18 16:33:25,422 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[@class='searchtoolbar-search-span']]之后执行...
+2019-11-18 16:33:26,923 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:33:26,933 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:33:26,934 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之前执行...
+2019-11-18 16:33:26,964 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之后执行...
+2019-11-18 16:33:26,964 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:33:26,974 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:33:27,030 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:33:27,042 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:33:27,085 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:33:27,095 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:33:27,112 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:33:27,122 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:33:27,122 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //button[@class='helpdoc-submit']]之前执行...
+2019-11-18 16:33:27,166 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //button[@class='helpdoc-submit']]之后执行...
+2019-11-18 16:33:27,166 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:33:27,180 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:33:27,180 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[contains(text(),'确定')]]之前执行...
+2019-11-18 16:33:27,225 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[contains(text(),'确定')]]之后执行...
+2019-11-18 16:33:29,227 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:33:29,239 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:33:29,240 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //select[@class='swPageSelect-select']]之前执行...
+2019-11-18 16:33:29,293 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //select[@class='swPageSelect-select']]之后执行...
+2019-11-18 16:33:29,294 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //option[@value='5']
+2019-11-18 16:33:29,304 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //option[@value='5']
+2019-11-18 16:33:29,305 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //option[@value='5']]之前执行...
+2019-11-18 16:33:29,331 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //option[@value='5']]之后执行...
+2019-11-18 16:33:30,832 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'下一页')]
+2019-11-18 16:33:30,844 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'下一页')]
+2019-11-18 16:33:30,844 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[contains(text(),'下一页')]]之前执行...
+2019-11-18 16:33:30,870 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[contains(text(),'下一页')]]之后执行...
+2019-11-18 16:33:32,375 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='swPageSelect-onePage']
+2019-11-18 16:33:32,386 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='swPageSelect-onePage']
+2019-11-18 16:33:37,648 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:33:37,661 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:33:37,661 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:33:37,668 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:33:37,672 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'下载')][1]
+2019-11-18 16:33:37,682 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'下载')][1]
+2019-11-18 16:33:37,683 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (02b2d681865a2bec816964b4deefb589)] -> xpath: //span[contains(text(),'下载')][1]]之前执行...
+2019-11-18 16:33:37,716 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="helpdoc-download">...</span> is not clickable at point (1510, 200). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55838}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 02b2d681865a2bec816964b4deefb589
+2019-11-18 16:34:12,235 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:34:12,407 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:34:12,407 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:34:12,634 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:34:12,681 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:34:12,692 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:34:12,754 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:34:12,766 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:34:12,767 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //div[@class='login-sub']]之前执行...
+2019-11-18 16:34:12,805 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //div[@class='login-sub']]之后执行...
+2019-11-18 16:34:12,808 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:34:13,878 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:34:13,879 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //span[contains(text(),'基础数据')]]之前执行...
+2019-11-18 16:34:13,914 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //span[contains(text(),'基础数据')]]之后执行...
+2019-11-18 16:34:13,914 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:34:13,927 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:34:13,927 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //span[contains(text(),'基础数据维护')]]之前执行...
+2019-11-18 16:34:13,977 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //span[contains(text(),'基础数据维护')]]之后执行...
+2019-11-18 16:34:13,977 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:34:13,989 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:34:13,989 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //li[contains(text(),'帮助文档管理')]]之前执行...
+2019-11-18 16:34:14,023 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //li[contains(text(),'帮助文档管理')]]之后执行...
+2019-11-18 16:34:14,025 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:34:14,319 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:34:14,320 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //span[@class='searchtoolbar-search-span']]之前执行...
+2019-11-18 16:34:14,354 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //span[@class='searchtoolbar-search-span']]之后执行...
+2019-11-18 16:34:15,856 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:34:15,869 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:34:15,870 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之前执行...
+2019-11-18 16:34:15,901 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之后执行...
+2019-11-18 16:34:15,901 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:34:15,913 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:34:15,975 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:34:15,992 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:34:16,041 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:34:16,068 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:34:16,087 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:34:16,098 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:34:16,098 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //button[@class='helpdoc-submit']]之前执行...
+2019-11-18 16:34:16,149 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //button[@class='helpdoc-submit']]之后执行...
+2019-11-18 16:34:16,149 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:34:16,160 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:34:16,161 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //span[contains(text(),'确定')]]之前执行...
+2019-11-18 16:34:16,207 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //span[contains(text(),'确定')]]之后执行...
+2019-11-18 16:34:18,210 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:34:18,223 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:34:18,224 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //select[@class='swPageSelect-select']]之前执行...
+2019-11-18 16:34:18,259 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <select class="swPageSelect-select">...</select> is not clickable at point (552, 723). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55900}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 581eb0476f521f53e8646bf68b3c6a1e
+2019-11-18 16:34:18,264 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'下一页')]
+2019-11-18 16:34:18,278 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'下一页')]
+2019-11-18 16:34:18,278 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //span[contains(text(),'下一页')]]之前执行...
+2019-11-18 16:34:18,305 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="swPageSelect-disabled">...</span> is not clickable at point (1202, 722). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55900}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 581eb0476f521f53e8646bf68b3c6a1e
+2019-11-18 16:34:18,309 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='swPageSelect-onePage']
+2019-11-18 16:34:18,321 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='swPageSelect-onePage']
+2019-11-18 16:34:23,595 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:34:23,610 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:34:23,610 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:34:23,618 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:34:23,619 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //button[@class='helpdoc-change']]之前执行...
+2019-11-18 16:34:23,644 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button class="helpdoc-change">...</button> is not clickable at point (1427, 248). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55900}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 581eb0476f521f53e8646bf68b3c6a1e
+2019-11-18 16:34:23,647 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'下载')][1]
+2019-11-18 16:34:23,658 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'下载')][1]
+2019-11-18 16:34:23,658 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (581eb0476f521f53e8646bf68b3c6a1e)] -> xpath: //span[contains(text(),'下载')][1]]之前执行...
+2019-11-18 16:34:23,683 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="helpdoc-download">...</span> is not clickable at point (1510, 200). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55900}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 581eb0476f521f53e8646bf68b3c6a1e
+2019-11-18 16:34:59,201 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:34:59,358 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:34:59,358 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:34:59,639 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:34:59,685 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:34:59,697 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:34:59,758 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:34:59,771 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:34:59,772 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //div[@class='login-sub']]之前执行...
+2019-11-18 16:34:59,803 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //div[@class='login-sub']]之后执行...
+2019-11-18 16:34:59,806 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:35:00,862 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:35:00,862 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //span[contains(text(),'基础数据')]]之前执行...
+2019-11-18 16:35:00,903 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //span[contains(text(),'基础数据')]]之后执行...
+2019-11-18 16:35:00,904 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:35:00,915 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:35:00,915 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //span[contains(text(),'基础数据维护')]]之前执行...
+2019-11-18 16:35:00,960 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //span[contains(text(),'基础数据维护')]]之后执行...
+2019-11-18 16:35:00,960 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:35:00,972 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:35:00,972 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //li[contains(text(),'帮助文档管理')]]之前执行...
+2019-11-18 16:35:01,022 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //li[contains(text(),'帮助文档管理')]]之后执行...
+2019-11-18 16:35:01,024 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:35:01,329 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:35:01,330 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //span[@class='searchtoolbar-search-span']]之前执行...
+2019-11-18 16:35:01,358 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //span[@class='searchtoolbar-search-span']]之后执行...
+2019-11-18 16:35:02,861 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:35:02,874 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:35:02,875 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之前执行...
+2019-11-18 16:35:02,907 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之后执行...
+2019-11-18 16:35:02,907 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:35:02,919 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:35:02,985 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:35:02,996 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:35:03,058 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:35:03,069 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:35:03,085 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:35:03,096 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:35:03,096 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //button[@class='helpdoc-submit']]之前执行...
+2019-11-18 16:35:03,144 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //button[@class='helpdoc-submit']]之后执行...
+2019-11-18 16:35:03,145 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:35:03,155 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:35:03,155 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //span[contains(text(),'确定')]]之前执行...
+2019-11-18 16:35:03,204 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //span[contains(text(),'确定')]]之后执行...
+2019-11-18 16:35:05,207 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:35:05,219 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:35:05,219 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //select[@class='swPageSelect-select']]之前执行...
+2019-11-18 16:35:05,254 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <select class="swPageSelect-select">...</select> is not clickable at point (552, 723). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56058}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7b1ede8774a63ac8b52fae408510e9b2
+2019-11-18 16:35:05,257 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'下一页')]
+2019-11-18 16:35:05,270 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'下一页')]
+2019-11-18 16:35:05,270 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //span[contains(text(),'下一页')]]之前执行...
+2019-11-18 16:35:05,297 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="swPageSelect-disabled">...</span> is not clickable at point (1202, 722). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56058}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7b1ede8774a63ac8b52fae408510e9b2
+2019-11-18 16:35:05,302 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='swPageSelect-onePage']
+2019-11-18 16:35:05,313 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='swPageSelect-onePage']
+2019-11-18 16:35:10,574 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:35:10,588 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:35:10,588 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:35:10,596 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.chained({By.xpath: //button[@class='helpdoc-change']})
+2019-11-18 16:35:10,597 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //button[@class='helpdoc-change']]之前执行...
+2019-11-18 16:35:10,623 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button class="helpdoc-change">...</button> is not clickable at point (1427, 248). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56058}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7b1ede8774a63ac8b52fae408510e9b2
+2019-11-18 16:35:10,626 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'下载')][1]
+2019-11-18 16:35:10,638 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'下载')][1]
+2019-11-18 16:35:10,639 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (7b1ede8774a63ac8b52fae408510e9b2)] -> xpath: //span[contains(text(),'下载')][1]]之前执行...
+2019-11-18 16:35:10,664 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="helpdoc-download">...</span> is not clickable at point (1510, 200). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56058}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7b1ede8774a63ac8b52fae408510e9b2
+2019-11-18 16:46:52,156 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:46:52,372 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:46:52,624 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:46:52,649 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:46:52,654 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> name: login_user]之前执行...
+2019-11-18 16:46:52,765 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> name: login_user]之后执行...
+2019-11-18 16:46:52,765 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:46:52,774 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:46:52,817 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .login-form-top > li
+2019-11-18 16:46:52,828 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .login-form-top > li
+2019-11-18 16:46:52,828 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> css selector: .login-form-top > li]之前执行...
+2019-11-18 16:46:52,859 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> css selector: .login-form-top > li]之后执行...
+2019-11-18 16:46:52,860 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:46:52,871 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:46:52,871 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> name: login_pas]之前执行...
+2019-11-18 16:46:52,915 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> name: login_pas]之后执行...
+2019-11-18 16:46:52,915 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:46:52,923 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:46:52,948 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .login-sub
+2019-11-18 16:46:52,958 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .login-sub
+2019-11-18 16:46:52,959 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> css selector: .login-sub]之前执行...
+2019-11-18 16:46:52,991 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> css selector: .login-sub]之后执行...
+2019-11-18 16:46:52,997 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .platformmune-list > li:nth-child(3) > span
+2019-11-18 16:46:54,086 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .platformmune-list > li:nth-child(3) > span
+2019-11-18 16:46:54,086 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> css selector: .platformmune-list > li:nth-child(3) > span]之前执行...
+2019-11-18 16:46:54,118 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> css selector: .platformmune-list > li:nth-child(3) > span]之后执行...
+2019-11-18 16:46:54,118 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(.,'基础数据维护')]
+2019-11-18 16:46:54,129 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(.,'基础数据维护')]
+2019-11-18 16:46:54,255 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[24]
+2019-11-18 16:46:54,266 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[24]
+2019-11-18 16:46:54,376 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .platformmune-active
+2019-11-18 16:46:54,387 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .platformmune-active
+2019-11-18 16:46:54,388 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> css selector: .platformmune-active]之前执行...
+2019-11-18 16:46:54,421 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> css selector: .platformmune-active]之后执行...
+2019-11-18 16:46:54,421 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .searchtoolbar-search-span
+2019-11-18 16:46:54,718 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .searchtoolbar-search-span
+2019-11-18 16:46:54,718 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> css selector: .searchtoolbar-search-span]之前执行...
+2019-11-18 16:46:54,765 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (e84c49d0926ca05242394d97227f00e9)] -> css selector: .searchtoolbar-search-span]之后执行...
+2019-11-18 16:59:02,057 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:59:02,231 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:59:02,231 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:59:02,500 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:59:02,552 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:59:02,566 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:59:02,629 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:59:02,640 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:59:02,640 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //div[@class='login-sub']]之前执行...
+2019-11-18 16:59:02,678 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //div[@class='login-sub']]之后执行...
+2019-11-18 16:59:02,682 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:59:03,744 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:59:03,745 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //span[contains(text(),'基础数据')]]之前执行...
+2019-11-18 16:59:03,779 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //span[contains(text(),'基础数据')]]之后执行...
+2019-11-18 16:59:03,779 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:59:03,793 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:59:03,794 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //span[contains(text(),'基础数据维护')]]之前执行...
+2019-11-18 16:59:03,828 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //span[contains(text(),'基础数据维护')]]之后执行...
+2019-11-18 16:59:03,828 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:59:03,839 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:59:03,839 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //li[contains(text(),'帮助文档管理')]]之前执行...
+2019-11-18 16:59:03,879 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //li[contains(text(),'帮助文档管理')]]之后执行...
+2019-11-18 16:59:03,881 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:59:04,204 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:59:04,204 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //span[@class='searchtoolbar-search-span']]之前执行...
+2019-11-18 16:59:04,245 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //span[@class='searchtoolbar-search-span']]之后执行...
+2019-11-18 16:59:05,746 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:59:05,758 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:59:05,758 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之前执行...
+2019-11-18 16:59:05,789 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之后执行...
+2019-11-18 16:59:05,789 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:59:05,802 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:59:05,853 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:59:05,863 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:59:05,902 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:59:05,914 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:59:05,931 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:59:05,943 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:59:05,943 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //button[@class='helpdoc-submit']]之前执行...
+2019-11-18 16:59:05,986 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //button[@class='helpdoc-submit']]之后执行...
+2019-11-18 16:59:05,987 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:59:05,998 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:59:05,998 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //span[contains(text(),'确定')]]之前执行...
+2019-11-18 16:59:06,046 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (546c1b5698e1568c0717418af63dd011)] -> xpath: //span[contains(text(),'确定')]]之后执行...
+2019-11-18 16:59:26,406 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:59:26,604 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:59:26,605 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:59:26,848 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:59:26,897 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:59:26,910 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:59:26,972 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:59:26,985 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:59:26,986 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //div[@class='login-sub']]之前执行...
+2019-11-18 16:59:27,018 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //div[@class='login-sub']]之后执行...
+2019-11-18 16:59:27,021 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:59:28,329 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:59:28,329 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //span[contains(text(),'基础数据')]]之前执行...
+2019-11-18 16:59:28,373 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //span[contains(text(),'基础数据')]]之后执行...
+2019-11-18 16:59:28,373 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:59:28,384 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:59:28,384 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //span[contains(text(),'基础数据维护')]]之前执行...
+2019-11-18 16:59:28,416 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //span[contains(text(),'基础数据维护')]]之后执行...
+2019-11-18 16:59:28,417 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:59:28,427 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:59:28,427 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //li[contains(text(),'帮助文档管理')]]之前执行...
+2019-11-18 16:59:28,471 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //li[contains(text(),'帮助文档管理')]]之后执行...
+2019-11-18 16:59:28,472 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:59:28,788 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:59:28,788 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //span[@class='searchtoolbar-search-span']]之前执行...
+2019-11-18 16:59:28,818 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //span[@class='searchtoolbar-search-span']]之后执行...
+2019-11-18 16:59:30,321 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:59:30,333 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:59:30,333 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之前执行...
+2019-11-18 16:59:30,362 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之后执行...
+2019-11-18 16:59:30,362 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:59:30,375 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:59:30,427 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:59:30,438 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:59:30,478 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:59:30,487 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 16:59:30,505 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:59:30,516 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 16:59:30,517 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //button[@class='helpdoc-submit']]之前执行...
+2019-11-18 16:59:30,555 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //button[@class='helpdoc-submit']]之后执行...
+2019-11-18 16:59:30,555 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:59:30,568 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 16:59:30,568 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //span[contains(text(),'确定')]]之前执行...
+2019-11-18 16:59:30,604 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //span[contains(text(),'确定')]]之后执行...
+2019-11-18 16:59:32,606 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:59:32,616 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //select[@class='swPageSelect-select']
+2019-11-18 16:59:32,617 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (4f80e5c19fe1bee43a3079be8fcefe27)] -> xpath: //select[@class='swPageSelect-select']]之前执行...
+2019-11-18 16:59:32,651 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <select class="swPageSelect-select">...</select> is not clickable at point (552, 723). Other element would receive the click: <div class="mainModel-alert-shadow" style="width: 1903px; height: 926px; background: rgb(204, 204, 204); opacity: 0.3;">...</div>
+  (Session info: chrome=79.0.3941.4)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.229.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3941.4, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58386}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4f80e5c19fe1bee43a3079be8fcefe27
+2019-11-18 16:59:56,253 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:59:56,430 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-18 16:59:56,430 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-18 16:59:56,652 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-18 16:59:56,697 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-18 16:59:56,708 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-18 16:59:56,762 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:59:56,774 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-18 16:59:56,775 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //div[@class='login-sub']]之前执行...
+2019-11-18 16:59:56,814 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //div[@class='login-sub']]之后执行...
+2019-11-18 16:59:56,817 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:59:57,857 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据')]
+2019-11-18 16:59:57,858 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //span[contains(text(),'基础数据')]]之前执行...
+2019-11-18 16:59:57,900 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //span[contains(text(),'基础数据')]]之后执行...
+2019-11-18 16:59:57,900 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:59:57,912 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'基础数据维护')]
+2019-11-18 16:59:57,913 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //span[contains(text(),'基础数据维护')]]之前执行...
+2019-11-18 16:59:57,949 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //span[contains(text(),'基础数据维护')]]之后执行...
+2019-11-18 16:59:57,949 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:59:57,962 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //li[contains(text(),'帮助文档管理')]
+2019-11-18 16:59:57,962 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //li[contains(text(),'帮助文档管理')]]之前执行...
+2019-11-18 16:59:58,001 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //li[contains(text(),'帮助文档管理')]]之后执行...
+2019-11-18 16:59:58,003 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:59:58,303 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='searchtoolbar-search-span']
+2019-11-18 16:59:58,304 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //span[@class='searchtoolbar-search-span']]之前执行...
+2019-11-18 16:59:58,349 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //span[@class='searchtoolbar-search-span']]之后执行...
+2019-11-18 16:59:59,851 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:59:59,862 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //img[@class='searchtoolbar-batchAdd']
+2019-11-18 16:59:59,862 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之前执行...
+2019-11-18 16:59:59,892 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //img[@class='searchtoolbar-batchAdd']]之后执行...
+2019-11-18 16:59:59,892 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:59:59,904 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdesc']
+2019-11-18 16:59:59,953 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 16:59:59,965 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-helpdocdir']
+2019-11-18 17:00:00,007 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 17:00:00,020 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //input[@class='helpdoc-file']
+2019-11-18 17:00:00,039 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 17:00:00,049 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='helpdoc-submit']
+2019-11-18 17:00:00,049 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //button[@class='helpdoc-submit']]之前执行...
+2019-11-18 17:00:00,093 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //button[@class='helpdoc-submit']]之后执行...
+2019-11-18 17:00:00,094 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 17:00:00,104 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[contains(text(),'确定')]
+2019-11-18 17:00:00,104 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //span[contains(text(),'确定')]]之前执行...
+2019-11-18 17:00:00,150 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on XP (f0521a054619590d11b24418b134fe67)] -> xpath: //span[contains(text(),'确定')]]之后执行...

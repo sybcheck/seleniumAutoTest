@@ -1,0 +1,10 @@
+2019-11-14 09:16:26,203 [main] INFO  cn.ac.base.DriverBase [TaskPageTestByMyself.java : 23] - 执行断言title
+2019-11-14 09:16:26,213 [main] INFO  cn.ac.base.DriverBase [TaskPageTestByMyself.java : 30] - 执行登录
+2019-11-14 09:16:26,709 [main] INFO  cn.ac.base.DriverBase [TaskPageTestByMyself.java : 51] - 执行添加数据
+2019-11-14 09:16:28,885 [main] INFO  cn.ac.base.DriverBase [FirsttestcaseTest.java : 18] - 执行租户查询功能
+2019-11-14 09:16:30,785 [main] INFO  cn.ac.base.DriverBase [SectestcaseTest.java : 18] - 执行协同查询功能
+2019-11-14 09:16:42,702 [main] INFO  cn.ac.base.DriverBase [ChromejngxiaoyuntestcaseTest.java : 16] - 执行谷歌抓取的代码
+2019-11-14 09:16:44,198 [main] INFO  cn.ac.base.DriverBase [ChromebaidutestcaseTest.java : 14] - 执行谷歌百度测试用例
+2019-11-14 09:16:44,772 [main] INFO  cn.ac.base.DriverBase [FirefoxbaidutestcaseTest.java : 16] - 执行火狐百度测试用例
+2019-11-14 09:16:55,301 [main] INFO  cn.ac.base.DriverBase [FirefoxjingxiaoyuntestcaseTest.java : 17] - 执行火狐抓取的代码
+2019-11-14 09:16:57,425 [main] INFO  cn.ac.base.DriverBase [DriverBase.java : 102] - 关闭退出浏览器...

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="协同定义添加数据测试"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.642">
+  <properties />
+  
+  
+            <testcase name="login" time="0.351" classname="cn.ac.testcase.TaskPageTestByMyself" />
+                <testcase name="assertLoginPageTile" time="0.080" classname="cn.ac.testcase.TaskPageTestByMyself" />
+                <testcase name="addData" time="2.211" classname="cn.ac.testcase.TaskPageTestByMyself" />
+      
+</testsuite>

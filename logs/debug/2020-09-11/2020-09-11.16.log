@@ -1,0 +1,58 @@
+2020-09-11 16:03:45,507 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:03:56,728 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=87.0.4252.0)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4252.0, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:8753}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f637bb01bdc89bd4957644af26771a53
+2020-09-11 16:04:22,403 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:04:23,217 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:04:23,218 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 16:04:25,143 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 16:04:52,383 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:04:54,188 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:04:54,188 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 16:04:55,830 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 16:05:17,092 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:05:20,310 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:05:20,310 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 16:05:23,048 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 16:06:13,888 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:06:14,700 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:06:14,701 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 16:06:16,161 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 16:06:46,034 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:06:48,849 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:06:48,850 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 16:06:51,077 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 16:07:11,987 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:07:12,789 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:07:12,790 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 16:07:14,482 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 16:09:29,297 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:09:32,330 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:09:32,331 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 16:09:34,001 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 16:13:55,812 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:13:58,584 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:13:58,585 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 16:14:00,779 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 16:14:02,808 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : 0}
+  (Session info: chrome=87.0.4252.0): 0
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4252.0, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:9345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 2c8b3d0769379227d81c6ea64f8bb3ad
+2020-09-11 16:54:19,751 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:54:21,836 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 16:54:21,837 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 16:54:22,947 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 16:54:24,975 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : 0}
+  (Session info: chrome=87.0.4252.0): 0
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4252.0, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10604}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0366581917f910a7c2a4513515a3fa46

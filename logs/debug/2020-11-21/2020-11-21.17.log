@@ -1,0 +1,29 @@
+2020-11-21 17:09:07,289 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 17:09:24,034 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 17:09:44,057 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 11.790
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:5358}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 09d73ede0cbbd6b1eefe2b6d95046347
+2020-11-21 17:27:16,540 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 17:27:16,544 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 17:27:32,978 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 17:27:32,982 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 17:27:43,130 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.JavascriptException: javascript error: Cannot read property 'outerHTML' of null
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:6534}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6b7bbf1171cff3f75af5fe11a64f2b1a
+2020-11-21 17:28:06,141 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 17:28:06,144 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 17:28:16,333 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.JavascriptException: javascript error: Cannot read property 'outerHTML' of null
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:6592}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 409cd4843082f49cb9f6167366c4a491

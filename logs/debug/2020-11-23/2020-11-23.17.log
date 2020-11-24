@@ -1,0 +1,190 @@
+2020-11-23 17:13:48,322 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:13:49,065 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:13:49,073 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:13:49,593 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:13:49,900 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:13:49,908 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:13:49,908 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (29509329fde73126e941ac00279b63cd)] -> id: nc_1_n1z]之前执行...
+2020-11-23 17:13:49,935 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (29509329fde73126e941ac00279b63cd)] -> id: nc_1_n1z]之后执行...
+2020-11-23 17:14:37,832 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:14:38,120 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:14:38,136 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:14:39,251 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:14:39,546 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:14:39,555 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:14:39,556 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (88a89a97fd24b1f55671fce6e155fef5)] -> id: nc_1_n1z]之前执行...
+2020-11-23 17:14:39,583 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (88a89a97fd24b1f55671fce6e155fef5)] -> id: nc_1_n1z]之后执行...
+2020-11-23 17:15:51,208 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:15:51,790 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:15:51,803 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:15:52,612 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:15:52,850 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:15:52,857 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:15:52,857 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (5ae0b44826a7ca9758ee12675d624d89)] -> id: nc_1_n1z]之前执行...
+2020-11-23 17:15:52,883 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (5ae0b44826a7ca9758ee12675d624d89)] -> id: nc_1_n1z]之后执行...
+2020-11-23 17:17:12,132 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:17:14,676 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:17:14,691 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:17:15,277 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:17:15,515 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:17:15,522 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:17:15,523 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (c692bfab9718394291f28318c3f88ecc)] -> id: nc_1_n1z]之前执行...
+2020-11-23 17:17:15,549 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (c692bfab9718394291f28318c3f88ecc)] -> id: nc_1_n1z]之后执行...
+2020-11-23 17:26:12,177 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.JavascriptException: javascript error: Invalid or unexpected token
+  (Session info: chrome=87.0.4280.66)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:5151}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 48dc7bd7e12b49fae6dc312a24e2a399
+2020-11-23 17:26:27,933 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.JavascriptException: javascript error: Invalid or unexpected token
+  (Session info: chrome=87.0.4280.66)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:5193}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b48daa428bab073e375139cee8b1e95d
+2020-11-23 17:27:24,737 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.JavascriptException: javascript error: Page is not defined
+  (Session info: chrome=87.0.4280.66)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:5249}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 49471ba3abd7158d7120cba572093bb2
+2020-11-23 17:28:37,485 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:28:39,282 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:28:39,294 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:28:40,272 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:28:40,596 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:28:40,605 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:28:40,606 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (6ca1835370497b770a611615d0bea14a)] -> id: nc_1_n1z]之前执行...
+2020-11-23 17:28:40,655 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (6ca1835370497b770a611615d0bea14a)] -> id: nc_1_n1z]之后执行...
+2020-11-23 17:37:11,800 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:37:12,337 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:37:12,346 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:37:13,082 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:37:13,319 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:37:13,327 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:37:13,327 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (1e0ef736d15210bbf907420eb2b4ed60)] -> id: nc_1_n1z]之前执行...
+2020-11-23 17:37:13,355 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (1e0ef736d15210bbf907420eb2b4ed60)] -> id: nc_1_n1z]之后执行...
+2020-11-23 17:37:47,296 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:38:07,313 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 10.793
+  (Session info: headless chrome=87.0.4280.66)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:6090}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: e56ddfd560b7c3cc5c39defab403343d
+2020-11-23 17:38:29,868 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:38:49,887 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 19.776
+  (Session info: headless chrome=87.0.4280.66)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:6148}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 216a765d64fdcf87ef71b6cc71b2b318
+2020-11-23 17:39:26,463 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:39:46,478 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 19.771
+  (Session info: chrome=87.0.4280.66)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:6214}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 496da5fe3c9bab46eca438a37f54b563
+2020-11-23 17:40:59,307 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:41:03,201 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:41:05,337 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-23 17:41:05,348 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-23 17:41:05,394 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='coi-banner__accept']
+2020-11-23 17:41:05,730 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='coi-banner__accept']
+2020-11-23 17:41:05,731 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (b94b51ec5fe18f48583ad8c6abf374bc)] -> xpath: //button[@class='coi-banner__accept']]之前执行...
+2020-11-23 17:41:05,783 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (b94b51ec5fe18f48583ad8c6abf374bc)] -> xpath: //button[@class='coi-banner__accept']]之后执行...
+2020-11-23 17:41:05,783 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='button button--primary button--right']
+2020-11-23 17:41:05,794 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='button button--primary button--right']
+2020-11-23 17:41:05,794 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (b94b51ec5fe18f48583ad8c6abf374bc)] -> xpath: //button[@class='button button--primary button--right']]之前执行...
+2020-11-23 17:41:05,846 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (b94b51ec5fe18f48583ad8c6abf374bc)] -> xpath: //button[@class='button button--primary button--right']]之后执行...
+2020-11-23 17:41:05,846 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-23 17:41:08,137 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-23 17:41:32,602 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:41:37,496 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:41:39,643 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-23 17:41:39,653 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-23 17:41:39,753 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='coi-banner__accept']
+2020-11-23 17:41:39,764 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='coi-banner__accept']
+2020-11-23 17:41:39,764 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (7f298001fac5648104f6aa3cec007af2)] -> xpath: //button[@class='coi-banner__accept']]之前执行...
+2020-11-23 17:41:39,808 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (7f298001fac5648104f6aa3cec007af2)] -> xpath: //button[@class='coi-banner__accept']]之后执行...
+2020-11-23 17:41:39,808 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='button button--primary button--right']
+2020-11-23 17:41:39,818 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='button button--primary button--right']
+2020-11-23 17:41:39,818 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (7f298001fac5648104f6aa3cec007af2)] -> xpath: //button[@class='button button--primary button--right']]之前执行...
+2020-11-23 17:41:39,867 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (7f298001fac5648104f6aa3cec007af2)] -> xpath: //button[@class='button button--primary button--right']]之后执行...
+2020-11-23 17:41:39,868 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-23 17:41:41,860 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-23 17:41:56,125 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:42:03,865 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:42:05,995 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-23 17:42:06,006 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-23 17:42:06,056 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='coi-banner__accept']
+2020-11-23 17:42:06,069 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='coi-banner__accept']
+2020-11-23 17:42:06,069 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (c361ca1a12af178c1cbd7b0afd93fd37)] -> xpath: //button[@class='coi-banner__accept']]之前执行...
+2020-11-23 17:42:06,117 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (c361ca1a12af178c1cbd7b0afd93fd37)] -> xpath: //button[@class='coi-banner__accept']]之后执行...
+2020-11-23 17:42:06,118 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='button button--primary button--right']
+2020-11-23 17:42:06,128 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='button button--primary button--right']
+2020-11-23 17:42:06,129 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (c361ca1a12af178c1cbd7b0afd93fd37)] -> xpath: //button[@class='button button--primary button--right']]之前执行...
+2020-11-23 17:42:06,181 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (c361ca1a12af178c1cbd7b0afd93fd37)] -> xpath: //button[@class='button button--primary button--right']]之后执行...
+2020-11-23 17:42:06,181 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-23 17:42:07,637 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-23 17:42:29,558 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:42:49,574 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 10.750
+  (Session info: headless chrome=87.0.4280.66)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:6539}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: ba677b587e803b710cdcf289658b76b0
+2020-11-23 17:43:09,496 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:43:13,253 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-23 17:43:15,384 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-23 17:43:15,395 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-23 17:43:15,444 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='coi-banner__accept']
+2020-11-23 17:43:15,455 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='coi-banner__accept']
+2020-11-23 17:43:15,456 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (a4f9d8227c52fe48ec8e2f93a50473ff)] -> xpath: //button[@class='coi-banner__accept']]之前执行...
+2020-11-23 17:43:15,503 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (a4f9d8227c52fe48ec8e2f93a50473ff)] -> xpath: //button[@class='coi-banner__accept']]之后执行...
+2020-11-23 17:43:15,504 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //button[@class='button button--primary button--right']
+2020-11-23 17:43:15,514 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //button[@class='button button--primary button--right']
+2020-11-23 17:43:15,514 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (a4f9d8227c52fe48ec8e2f93a50473ff)] -> xpath: //button[@class='button button--primary button--right']]之前执行...
+2020-11-23 17:43:15,564 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (a4f9d8227c52fe48ec8e2f93a50473ff)] -> xpath: //button[@class='button button--primary button--right']]之后执行...
+2020-11-23 17:43:15,565 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-23 17:43:17,300 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-23 17:43:51,818 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:43:52,890 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:43:52,890 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:43:53,510 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:43:53,752 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:43:53,759 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:43:53,760 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (0ea692f932f2b824390c8cac3cc210d4)] -> id: nc_1_n1z]之前执行...
+2020-11-23 17:43:53,787 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (0ea692f932f2b824390c8cac3cc210d4)] -> id: nc_1_n1z]之后执行...
+2020-11-23 17:44:18,085 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:44:18,391 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:44:18,399 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:44:18,977 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:44:19,215 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:44:19,223 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:44:19,223 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (5aca1ec443a6ce07bcc147af3ffec6e2)] -> id: nc_1_n1z]之前执行...
+2020-11-23 17:44:19,249 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (5aca1ec443a6ce07bcc147af3ffec6e2)] -> id: nc_1_n1z]之后执行...
+2020-11-23 17:48:52,274 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:48:53,734 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:48:53,741 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:48:54,803 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:48:54,812 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:48:54,819 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:48:54,820 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (db8c51ac1145227ddecc588126ddedc4)] -> id: nc_1_n1z]之前执行...
+2020-11-23 17:48:54,946 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (db8c51ac1145227ddecc588126ddedc4)] -> id: nc_1_n1z]之后执行...
+2020-11-23 17:50:29,517 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:50:32,036 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber='
+2020-11-23 17:50:32,045 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:50:32,516 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:50:32,865 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-11-23 17:50:32,869 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-11-23 17:50:32,870 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (c2b4f318c12eb94f49ad789097128202)] -> id: nc_1_n1z]之前执行...
+2020-11-23 17:50:33,056 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (c2b4f318c12eb94f49ad789097128202)] -> id: nc_1_n1z]之后执行...
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

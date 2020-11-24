@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test-class Suite">
+	<listeners>
+		<!-- <listener class-name="cn.ac.qa.ExtentReportListener.ExtentReporterNG" 
+			/> -->
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="cn.ac.util.TestEventListener" />
+	</listeners>
+	<!--  Test
+	Test
+	<test thread-count="1" name="协同定义查询">
+		<classes>
+			<class name="cn.ac.testcase.SectestcaseTest" />
+		</classes>
+	</test> Test
+	<test thread-count="2" name="chrome测试">
+		<classes>
+			<class name="cn.ac.testcase.ChromejngxiaoyuntestcaseTest" />
+			<class name="cn.ac.testcase.ChromebaidutestcaseTest" />
+		</classes>
+	</test> Test
+	<test thread-count="1" name="火狐测试">
+		<classes>
+			<class name="cn.ac.testcase.FirefoxbaidutestcaseTest" />
+			<class name="cn.ac.testcase.FirefoxjingxiaoyuntestcaseTest" />
+		</classes>
+	</test> Test -->
+	<test thread-count="1" name="帮助文档管理测试">
+		<classes>
+			<class name="cn.ac.testcase.HelpDocumentPageTestTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="1" name="协同定义添加数据测试">
+		<classes>
+			<class name="cn.ac.testcase.TaskPageTestByMyself" />
+		</classes>
+	</test>
+</suite> <!-- Suite -->
+
+
+
+

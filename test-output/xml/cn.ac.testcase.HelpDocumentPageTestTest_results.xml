@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="帮助文档管理测试"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="33.203">
+  <properties />
+  
+  
+            <testcase name="allTest" time="33.203" classname="cn.ac.testcase.HelpDocumentPageTestTest" />
+      
+</testsuite>

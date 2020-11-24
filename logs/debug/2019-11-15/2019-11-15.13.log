@@ -1,0 +1,28 @@
+2019-11-15 13:09:41,528 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 23] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-15 13:09:41,752 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 27] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-15 13:09:41,752 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 67] - 找到标签前 : By.name: login_user
+2019-11-15 13:09:42,011 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 71] - 找到标签后 : By.name: login_user
+2019-11-15 13:09:42,015 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 67] - 找到标签前 : By.name: login_pas
+2019-11-15 13:09:42,030 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 71] - 找到标签后 : By.name: login_pas
+2019-11-15 13:09:42,030 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 67] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-15 13:09:42,045 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 71] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-15 13:28:54,723 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 23] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-15 13:28:54,903 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 27] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-15 13:28:54,903 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 67] - 找到标签前 : By.name: login_user
+2019-11-15 13:28:55,150 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 71] - 找到标签后 : By.name: login_user
+2019-11-15 13:28:55,155 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 67] - 找到标签前 : By.name: login_pas
+2019-11-15 13:28:55,171 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 71] - 找到标签后 : By.name: login_pas
+2019-11-15 13:28:55,171 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 67] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-15 13:28:55,186 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 71] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-15 13:38:32,003 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 23] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-15 13:38:32,243 [main] DEBUG cn.ac.base.DriverBase [WebEventListener.java : 27] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-15 13:56:03,065 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-15 13:56:03,256 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'http://wzg02.shineway-soft.com/public/saas/sam/admin/main/html/main.html'
+2019-11-15 13:56:03,256 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-15 13:56:03,520 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user
+2019-11-15 13:56:03,524 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_pas
+2019-11-15 13:56:03,536 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_pas
+2019-11-15 13:56:03,537 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //div[@class='login-sub']
+2019-11-15 13:56:03,549 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //div[@class='login-sub']
+2019-11-15 13:56:03,550 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.name: login_user
+2019-11-15 13:56:03,558 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.name: login_user

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="火狐测试"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.123">
+  <properties />
+  
+  
+            <testcase name="firefoxjingxiaoyuntestcase" time="2.123" classname="cn.ac.testcase.FirefoxjingxiaoyuntestcaseTest" />
+      
+</testsuite>

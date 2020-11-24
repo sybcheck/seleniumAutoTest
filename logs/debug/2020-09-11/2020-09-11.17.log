@@ -1,0 +1,85 @@
+2020-09-11 17:04:51,581 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 17:04:54,568 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 17:04:54,569 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:04:57,035 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:04:59,064 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : 0}
+  (Session info: chrome=87.0.4252.0): 0
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4252.0, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:11128}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9aac781ad6aef91d6deda3d5a88f5a3e
+2020-09-11 17:11:20,754 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 17:11:24,955 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 17:11:24,956 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:11:27,059 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:11:30,001 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: span[@class='nc-lang-cnt']/a
+2020-09-11 17:11:38,652 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=span[@class='nc-lang-cnt']/a
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: EventFiringWebDriver
+2020-09-11 17:12:06,463 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 17:12:07,286 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 17:12:07,287 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:12:09,202 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:12:12,081 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:12,094 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:12,095 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (33ceccc24a0df661cb972d6d1366ed3d)] -> xpath: //span[@class='nc-lang-cnt']/a]之前执行...
+2020-09-11 17:12:12,129 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (33ceccc24a0df661cb972d6d1366ed3d)] -> xpath: //span[@class='nc-lang-cnt']/a]之后执行...
+2020-09-11 17:12:12,130 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:12:12,137 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:12:14,798 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:14,805 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:14,805 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (33ceccc24a0df661cb972d6d1366ed3d)] -> xpath: //span[@class='nc-lang-cnt']/a]之前执行...
+2020-09-11 17:12:14,831 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (33ceccc24a0df661cb972d6d1366ed3d)] -> xpath: //span[@class='nc-lang-cnt']/a]之后执行...
+2020-09-11 17:12:14,832 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:12:14,839 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:12:17,503 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:17,511 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:17,511 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (33ceccc24a0df661cb972d6d1366ed3d)] -> xpath: //span[@class='nc-lang-cnt']/a]之前执行...
+2020-09-11 17:12:17,535 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (33ceccc24a0df661cb972d6d1366ed3d)] -> xpath: //span[@class='nc-lang-cnt']/a]之后执行...
+2020-09-11 17:12:17,535 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:12:17,541 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:12:20,203 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:20,211 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:20,212 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (33ceccc24a0df661cb972d6d1366ed3d)] -> xpath: //span[@class='nc-lang-cnt']/a]之前执行...
+2020-09-11 17:12:20,238 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (33ceccc24a0df661cb972d6d1366ed3d)] -> xpath: //span[@class='nc-lang-cnt']/a]之后执行...
+2020-09-11 17:12:20,238 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:12:20,244 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:12:22,917 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:22,938 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:22,938 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (33ceccc24a0df661cb972d6d1366ed3d)] -> xpath: //span[@class='nc-lang-cnt']/a]之前执行...
+2020-09-11 17:12:22,968 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (33ceccc24a0df661cb972d6d1366ed3d)] -> xpath: //span[@class='nc-lang-cnt']/a]之后执行...
+2020-09-11 17:12:42,102 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 17:12:44,005 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://moc.oocl.com/party/cargotracking/ct_search_from_other_domain.jsf?ANONYMOUS_BEHAVIOR=BUILD_UP&domainName=PARTY_DOMAIN&ENTRY_TYPE=OOCL&ENTRY=MCC&ctSearchType=BC&ctShipmentNumber=OOLU2635249080'
+2020-09-11 17:12:44,006 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:12:44,847 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:12:47,728 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:47,740 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:47,740 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (cbecf459a5755083c7d9684725d45811)] -> xpath: //span[@class='nc-lang-cnt']/a]之前执行...
+2020-09-11 17:12:47,768 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (cbecf459a5755083c7d9684725d45811)] -> xpath: //span[@class='nc-lang-cnt']/a]之后执行...
+2020-09-11 17:12:47,769 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:12:47,776 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:12:50,434 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:50,441 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:50,441 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (cbecf459a5755083c7d9684725d45811)] -> xpath: //span[@class='nc-lang-cnt']/a]之前执行...
+2020-09-11 17:12:50,467 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (cbecf459a5755083c7d9684725d45811)] -> xpath: //span[@class='nc-lang-cnt']/a]之后执行...
+2020-09-11 17:12:50,468 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:12:50,476 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:12:53,142 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:53,149 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:53,150 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (cbecf459a5755083c7d9684725d45811)] -> xpath: //span[@class='nc-lang-cnt']/a]之前执行...
+2020-09-11 17:12:53,175 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (cbecf459a5755083c7d9684725d45811)] -> xpath: //span[@class='nc-lang-cnt']/a]之后执行...
+2020-09-11 17:12:53,176 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:12:53,181 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:12:55,850 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:55,858 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:55,859 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (cbecf459a5755083c7d9684725d45811)] -> xpath: //span[@class='nc-lang-cnt']/a]之前执行...
+2020-09-11 17:12:55,883 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (cbecf459a5755083c7d9684725d45811)] -> xpath: //span[@class='nc-lang-cnt']/a]之后执行...
+2020-09-11 17:12:55,883 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: nc_1_n1z
+2020-09-11 17:12:55,894 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: nc_1_n1z
+2020-09-11 17:12:58,549 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:58,557 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='nc-lang-cnt']/a
+2020-09-11 17:12:58,557 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (cbecf459a5755083c7d9684725d45811)] -> xpath: //span[@class='nc-lang-cnt']/a]之前执行...
+2020-09-11 17:12:58,583 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (cbecf459a5755083c7d9684725d45811)] -> xpath: //span[@class='nc-lang-cnt']/a]之后执行...

@@ -1,0 +1,170 @@
+2020-11-21 16:14:02,755 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.baidu.com/'
+2020-11-21 16:14:03,233 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.baidu.com/'
+2020-11-21 16:14:03,455 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: kw
+2020-11-21 16:14:03,467 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: kw
+2020-11-21 16:14:03,470 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (d6b238242befe0d88dddcb6ee5c93a86)] -> id: kw]之前执行...
+2020-11-21 16:14:03,504 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (d6b238242befe0d88dddcb6ee5c93a86)] -> id: kw]之后执行...
+2020-11-21 16:14:03,504 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: kw
+2020-11-21 16:14:03,512 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: kw
+2020-11-21 16:14:03,565 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: su
+2020-11-21 16:14:03,575 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: su
+2020-11-21 16:14:03,576 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (d6b238242befe0d88dddcb6ee5c93a86)] -> id: su]之前执行...
+2020-11-21 16:14:03,614 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (d6b238242befe0d88dddcb6ee5c93a86)] -> id: su]之后执行...
+2020-11-21 16:14:26,335 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:14:34,551 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:14:34,787 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:14:34,798 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-21 16:14:34,803 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (07750830c0e9159cb595c9b477917da0)] -> id: trackShipmentSearch]之前执行...
+2020-11-21 16:14:34,847 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (07750830c0e9159cb595c9b477917da0)] -> id: trackShipmentSearch]之后执行...
+2020-11-21 16:14:34,847 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:14:34,858 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-21 16:14:34,894 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .button
+2020-11-21 16:14:34,905 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .button
+2020-11-21 16:14:34,905 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (07750830c0e9159cb595c9b477917da0)] -> css selector: .button]之前执行...
+2020-11-21 16:14:34,962 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (07750830c0e9159cb595c9b477917da0)] -> css selector: .button]之后执行...
+2020-11-21 16:15:07,175 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:15:14,246 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:15:14,469 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:15:14,480 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-21 16:15:14,484 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (26fb96b38066365677ef0f2ef279f4d2)] -> id: trackShipmentSearch]之前执行...
+2020-11-21 16:15:14,526 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (26fb96b38066365677ef0f2ef279f4d2)] -> id: trackShipmentSearch]之后执行...
+2020-11-21 16:15:14,527 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:15:14,535 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-21 16:15:14,576 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .button
+2020-11-21 16:15:14,585 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .button
+2020-11-21 16:15:14,585 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (26fb96b38066365677ef0f2ef279f4d2)] -> css selector: .button]之前执行...
+2020-11-21 16:15:14,636 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (26fb96b38066365677ef0f2ef279f4d2)] -> css selector: .button]之后执行...
+2020-11-21 16:20:52,411 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:21:01,765 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:21:01,989 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:21:01,999 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-21 16:21:02,003 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (46ca8e2386b90d0545cc61bdff47acd0)] -> id: trackShipmentSearch]之前执行...
+2020-11-21 16:21:02,045 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (46ca8e2386b90d0545cc61bdff47acd0)] -> id: trackShipmentSearch]之后执行...
+2020-11-21 16:21:02,045 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:21:02,051 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-21 16:21:02,079 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .button
+2020-11-21 16:21:02,089 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .button
+2020-11-21 16:21:02,089 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (46ca8e2386b90d0545cc61bdff47acd0)] -> css selector: .button]之前执行...
+2020-11-21 16:21:02,151 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (46ca8e2386b90d0545cc61bdff47acd0)] -> css selector: .button]之后执行...
+2020-11-21 16:21:02,152 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-21 16:21:04,932 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-21 16:23:35,477 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:23:41,784 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:24:37,304 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:24:41,468 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:24:41,697 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:24:43,246 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-21 16:24:43,251 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (dbf25163f32b3e6e9c4114527bafde2a)] -> id: trackShipmentSearch]之前执行...
+2020-11-21 16:24:43,341 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (dbf25163f32b3e6e9c4114527bafde2a)] -> id: trackShipmentSearch]之后执行...
+2020-11-21 16:24:43,342 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:24:43,349 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-21 16:24:43,377 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .button
+2020-11-21 16:24:43,386 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .button
+2020-11-21 16:24:43,386 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (dbf25163f32b3e6e9c4114527bafde2a)] -> css selector: .button]之前执行...
+2020-11-21 16:24:43,444 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (dbf25163f32b3e6e9c4114527bafde2a)] -> css selector: .button]之后执行...
+2020-11-21 16:24:43,444 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-21 16:24:48,196 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-21 16:25:10,481 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:25:14,937 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:25:38,320 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:25:58,335 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 11.674
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:1104}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b01945988e3a0ef4956aa9c09226eaf2
+2020-11-21 16:26:53,773 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:27:13,788 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 11.118
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:1209}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 799ca11675d2e0455d7cf9187780cba4
+2020-11-21 16:27:51,488 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:28:02,092 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:28:02,330 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:28:02,344 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-21 16:28:02,349 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (ab89f493a60fddeda2e99cb55e56f799)] -> id: trackShipmentSearch]之前执行...
+2020-11-21 16:28:02,390 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (ab89f493a60fddeda2e99cb55e56f799)] -> id: trackShipmentSearch]之后执行...
+2020-11-21 16:28:02,391 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:28:02,399 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.id: trackShipmentSearch
+2020-11-21 16:28:02,428 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.cssSelector: .button
+2020-11-21 16:28:02,438 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.cssSelector: .button
+2020-11-21 16:28:02,438 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 40] - 点击标签: [[ChromeDriver: chrome on WINDOWS (ab89f493a60fddeda2e99cb55e56f799)] -> css selector: .button]之前执行...
+2020-11-21 16:28:02,498 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 44] - 点击标签之后: [[ChromeDriver: chrome on WINDOWS (ab89f493a60fddeda2e99cb55e56f799)] -> css selector: .button]之后执行...
+2020-11-21 16:28:02,498 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-21 16:28:04,524 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 72] - 找到标签后 : By.xpath: //span[@class='pseudo-header--data-key']
+2020-11-21 16:33:05,444 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:33:25,460 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 11.367
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:1661}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 55fd68616671e7a2c466f9f63e7c5f13
+2020-11-21 16:36:36,448 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:36:56,464 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 8.307
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:2174}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: bb0aa6bf95f15cd90c341a3b72355b7a
+2020-11-21 16:37:41,213 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.baidu.com/'
+2020-11-21 16:37:41,715 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.baidu.com/'
+2020-11-21 16:37:42,007 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:38:02,031 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#trackShipmentSearch"}
+  (Session info: headless chrome=88.0.4315.5)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:2295}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: afc18ee185ec8058e8285c3c53b70b09
+*** Element info: {Using=id, value=trackShipmentSearch}
+2020-11-21 16:40:02,721 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:40:22,738 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 11.411
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:2457}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d6dc5e7951ce9987fb68b055bee9040f
+2020-11-21 16:40:52,215 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:41:12,231 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 9.649
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:2540}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 448c5a26f427dc46ddbfe8dd632973e2
+2020-11-21 16:44:30,000 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:44:50,015 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 11.472
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:2921}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6b092f405d94824f4c750f4694dac1af
+2020-11-21 16:45:22,323 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.baidu.com/'
+2020-11-21 16:45:22,708 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 28] - Navigated to:'https://www.baidu.com/'
+2020-11-21 16:45:23,014 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 68] - 找到标签前 : By.id: trackShipmentSearch
+2020-11-21 16:45:43,074 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#trackShipmentSearch"}
+  (Session info: headless chrome=88.0.4315.5)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:2987}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 4b474942f665225b10537c938dec8d9d
+*** Element info: {Using=id, value=trackShipmentSearch}
+2020-11-21 16:46:20,018 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 24] - Before navigating to: 'https://www.maersk.com.cn/tracking/#tracking/'
+2020-11-21 16:46:40,036 [main] DEBUG cn.ac.util.WebEventListener [WebEventListener.java : 64] - Exception occured: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 10.822
+  (Session info: headless chrome=88.0.4315.5)
+Build info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'
+System info: host: 'DESKTOP-16V47TI', ip: '192.168.0.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4315.5, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\sybcheck\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:3105}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 103ae6ea5ebf3a29cb1b70f10d7d8471

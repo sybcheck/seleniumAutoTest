@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chrome测试"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.495">
+  <properties />
+  
+  
+            <testcase name="chromejngxiaoyuntestcase" time="1.495" classname="cn.ac.testcase.ChromejngxiaoyuntestcaseTest" />
+      
+</testsuite>

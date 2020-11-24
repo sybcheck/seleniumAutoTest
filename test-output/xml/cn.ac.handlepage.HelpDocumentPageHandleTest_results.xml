@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="帮助文档管理测试"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.463">
+  <properties />
+  
+  
+            <testcase name="clickhelpDocument" time="0.982" classname="cn.ac.handlepage.HelpDocumentPageHandleTest" />
+                <testcase name="pageDown" time="1.540" classname="cn.ac.handlepage.HelpDocumentPageHandleTest" />
+                <testcase name="edit" time="1.773" classname="cn.ac.handlepage.HelpDocumentPageHandleTest" />
+                <testcase name="login" time="0.965" classname="cn.ac.handlepage.HelpDocumentPageHandleTest" />
+                <testcase name="search" time="1.736" classname="cn.ac.handlepage.HelpDocumentPageHandleTest" />
+                <testcase name="add" time="2.294" classname="cn.ac.handlepage.HelpDocumentPageHandleTest" />
+                <testcase name="setPage" time="1.619" classname="cn.ac.handlepage.HelpDocumentPageHandleTest" />
+                <testcase name="pageSkip" time="1.554" classname="cn.ac.handlepage.HelpDocumentPageHandleTest" />
+      
+</testsuite>
