@@ -13,7 +13,7 @@ public class FirefoxbaidutestcaseTest extends DriverBase {
 
 	@Test
 	public void firefoxbaidutestcase() {
-		LOGGER.info("执行火狐百度测试用例"); // test
+		LOGGER.info("执行火狐百度测试用例"); // test test
 		driver.get("https://www.baidu.com/");
 		driver.manage().window().setSize(new Dimension(1184, 873));
 		driver.findElement(By.id("kw")).click();
