@@ -41,7 +41,7 @@ public class DriverBase extends propBase {
             System.setProperty(prop.getProperty("chromeDriverName"), prop.getProperty("chromeDriverPath"));
             // 无头模式
             ChromeOptions chromeOptions = new ChromeOptions();
-            chromeOptions.addArguments("--headless");//不打开浏览器
+//            chromeOptions.addArguments("--headless");//不打开浏览器
             chromeOptions.addArguments("--no-sandbox");// 参数是让Chrome在root权限下跑
             chromeOptions.addArguments("disable-infobars");// 忽略警告提示语
 //		    chromeOptions.addArguments("start-maximized");// 页面最大化
@@ -51,9 +51,10 @@ public class DriverBase extends propBase {
 
 //		    chromeOptions.addArguments("Referrer Policy=strict-origin-when-cross-origin");
 //            chromeOptions.setPageLoadStrategy(PageLoadStrategy.NONE);// 立即返回不等待页面加载
-            chromeOptions.addArguments("--disable-blink-features");
-            chromeOptions.addArguments("--disable-blink-features=AutomationControlled");
-            chromeOptions.addArguments("user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36\"");//不设置有些网上有问题
+//            chromeOptions.addArguments("user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36\"");//不设置有些网上有问题
+//            chromeOptions.addArguments("--disable-blink-features");
+//            chromeOptions.addArguments("--disable-blink-features=AutomationControlled");
+
 //		    chromeOptions.addArguments("enable-automation");
 //		    chromeOptions.addArguments("--disable-extensions");
 //		    chromeOptions.addArguments("--dns-prefetch-disable");
